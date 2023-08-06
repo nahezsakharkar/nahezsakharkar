@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakharkarnahez" target="blank"><img src="https://img.shields.io/twitter/follow/sakharkarnahez?logo=twitter&style=for-the-badge" alt="sakharkarnahez" /></a> </p>
 
-- 💬 Ask me about **Front End Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **nahezsakharkar@gmail.com / +91 9769326135**
 
