@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahez Sakharkar</h1>
-<h3 align="center">One thing leads to another and the cycle of learning never stops. <br />A Full Stack Developer from Navi Mumbai, Maharashtra, India.</h3>
+<h3 align="center">Anything that can be done using Javascript will eventually be done using Javascript. <br />A Full Stack Developer from Navi Mumbai, Maharashtra, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahezsakharkar&label=Profile%20views&color=0e75b6&style=flat" alt="nahezsakharkar" /> </p>
 
