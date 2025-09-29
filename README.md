@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nahez Sakharkar</h1>
-<h3 align="center">Anything that can be done using Javascript will eventually be done using Javascript. A Full Stack Developer from Navi Mumbai, Maharashtra, India.</h3>
+<h3 align="center">Anything that can be done using Javascript will eventually be done using Javascript.</br>A Full Stack Developer from Navi Mumbai, Maharashtra, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahezsakharkar&label=Profile%20views&color=0e75b6&style=flat" alt="nahezsakharkar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahezsakharkar" alt="nahezsakharkar" /></a> </p>
 
 - 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **nahezsakharkar@gmail.com / +91 9769326135**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sClqA8TevLJ2gfnfXpH_2uzOD7yhOr7S/view?usp=sharing](https://drive.google.com/file/d/1sClqA8TevLJ2gfnfXpH_2uzOD7yhOr7S/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sClqA8TevLJ2gfnfXpH_2uzOD7yhOr7S/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
